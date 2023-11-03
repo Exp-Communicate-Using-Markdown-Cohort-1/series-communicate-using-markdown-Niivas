@@ -4,3 +4,5 @@
 #### I like to work automation projects which saves human effort and time and web devemopment projects.
 ##### I am an AI enthusiast.
 ###### I aim to a full-fledged software engineer and an astronaut.
+
+![Image of a panda in a ninja oufit](https://raw.githubusercontent.com/Niivas/Niivas/main/assets/panda-profile.jpeg)
