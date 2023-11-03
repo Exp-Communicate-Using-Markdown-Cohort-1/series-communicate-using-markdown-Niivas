@@ -11,3 +11,10 @@
 def printHello(name):
     print("Hello", name)
 ```
+- [x] Added an Intro
+- [x] Added an Image
+- [x] Added a coding block
+- [x] Added a list of tasks
+- [ ] Merge pull request
+
+  
